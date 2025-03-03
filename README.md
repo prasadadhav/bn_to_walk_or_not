@@ -6,6 +6,11 @@ In this repo I experiment with Bayesian neural network. The idea is to create a 
 ## Step 1: create dummy data
 I create a dummy data based on some realistic temperature values for my location. I use `beautifulsoup` to scrape atable that shows temperature for day, night, and how many days it rains, for each month.
 
+
+![Pairs Plot of Dummy Data](./images/pairs_plot_seasons.png)
+
+This pair plot is created using `creatdummy_data.ipynb`.
+
 ## Step 2: Train BNN on the dummy data
 In this step I train the BNN.
 
