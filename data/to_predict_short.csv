@@ -1,32 +1,32 @@
-date,temperature,month,seasons,rain,sunlight,wind,mood,walk
-2025-03-01,6,Mar,Spring,1,0,34,-55,0
-2025-03-02,7,Mar,Spring,0,1,11,-9,1
-2025-03-03,5,Mar,Spring,1,0,36,-44,0
-2025-03-04,6,Mar,Spring,0,1,16,-16,1
-2025-03-05,8,Mar,Spring,0,1,18,-21,0
-2025-03-06,5,Mar,Spring,1,0,30,-42,0
-2025-03-07,7,Mar,Spring,0,1,10,-22,1
-2025-03-08,8,Mar,Spring,0,1,14,-9,1
-2025-03-09,2,Mar,Spring,0,1,14,-17,1
-2025-03-10,8,Mar,Spring,0,1,13,-17,1
-2025-03-11,10,Mar,Spring,0,1,13,-7,0
-2025-03-12,9,Mar,Spring,0,1,12,-17,0
-2025-03-13,5,Mar,Spring,0,1,19,-20,1
-2025-03-14,6,Mar,Spring,0,1,15,-22,0
-2025-03-15,5,Mar,Spring,1,0,27,-45,0
-2025-03-16,8,Mar,Spring,0,1,16,-6,1
-2025-03-17,4,Mar,Spring,1,0,26,-41,0
-2025-03-18,6,Mar,Spring,1,0,32,-44,0
-2025-03-19,7,Mar,Spring,0,1,16,-20,1
-2025-03-20,6,Mar,Spring,0,1,17,-3,0
-2025-03-21,10,Mar,Spring,0,1,16,-16,1
-2025-03-22,3,Mar,Spring,0,1,15,-14,1
-2025-03-23,9,Mar,Spring,0,1,19,-23,0
-2025-03-24,8,Mar,Spring,0,1,13,-22,1
-2025-03-25,3,Mar,Spring,0,1,14,-2,0
-2025-03-26,8,Mar,Spring,0,1,16,-24,0
-2025-03-27,10,Mar,Spring,0,1,19,-12,0
-2025-03-28,3,Mar,Spring,0,1,14,-13,0
-2025-03-29,6,Mar,Spring,0,1,18,-17,1
-2025-03-30,4,Mar,Spring,1,0,29,-40,0
-2025-03-31,3,Mar,Spring,0,1,14,-25,0
+date,temperature,month,seasons,rain,sunlight,wind,mood,walk,temperature_category,wind_category,mood_category
+2025-03-01,8,Mar,Spring,0,1,19,3,1,cold,gentle breeze,okish
+2025-03-02,4,Mar,Spring,0,1,15,13,1,cold,gentle breeze,good
+2025-03-03,10,Mar,Spring,1,0,32,-35,1,cold,fresh breeze,very bad
+2025-03-04,7,Mar,Spring,0,1,14,25,1,cold,gentle breeze,good
+2025-03-05,2,Mar,Spring,1,0,25,-47,0,cold,moderate breeze,very bad
+2025-03-06,8,Mar,Spring,0,1,14,10,1,cold,gentle breeze,okish
+2025-03-07,5,Mar,Spring,1,0,26,-30,0,cold,moderate breeze,very bad
+2025-03-08,2,Mar,Spring,0,1,14,9,1,cold,gentle breeze,okish
+2025-03-09,10,Mar,Spring,1,0,40,-32,1,cold,strong breeze,very bad
+2025-03-10,8,Mar,Spring,0,1,11,9,1,cold,light breeze,okish
+2025-03-11,3,Mar,Spring,0,1,14,13,1,cold,gentle breeze,good
+2025-03-12,10,Mar,Spring,0,1,18,21,1,cold,gentle breeze,good
+2025-03-13,4,Mar,Spring,0,1,17,14,1,cold,gentle breeze,good
+2025-03-14,7,Mar,Spring,0,1,17,19,1,cold,gentle breeze,good
+2025-03-15,7,Mar,Spring,0,1,14,17,1,cold,gentle breeze,good
+2025-03-16,2,Mar,Spring,0,1,18,29,1,cold,gentle breeze,good
+2025-03-17,9,Mar,Spring,1,0,36,-33,0,cold,fresh breeze,very bad
+2025-03-18,7,Mar,Spring,0,1,18,6,1,cold,gentle breeze,okish
+2025-03-19,6,Mar,Spring,0,1,15,21,1,cold,gentle breeze,good
+2025-03-20,9,Mar,Spring,0,1,15,21,1,cold,gentle breeze,good
+2025-03-21,10,Mar,Spring,0,1,18,23,1,cold,gentle breeze,good
+2025-03-22,4,Mar,Spring,0,1,17,17,1,cold,gentle breeze,good
+2025-03-23,2,Mar,Spring,0,1,19,17,1,cold,gentle breeze,good
+2025-03-24,5,Mar,Spring,0,1,17,0,1,cold,gentle breeze,bad
+2025-03-25,9,Mar,Spring,0,1,16,21,1,cold,gentle breeze,good
+2025-03-26,9,Mar,Spring,0,1,12,4,1,cold,strong breeze,okish
+2025-03-27,8,Mar,Spring,1,0,27,-30,1,cold,moderate breeze,very bad
+2025-03-28,2,Mar,Spring,0,1,11,4,1,cold,light breeze,okish
+2025-03-29,6,Mar,Spring,0,1,17,15,1,cold,gentle breeze,good
+2025-03-30,5,Mar,Spring,0,1,15,4,1,cold,gentle breeze,okish
+2025-03-31,8,Mar,Spring,1,0,37,-38,1,cold,fresh breeze,very bad
