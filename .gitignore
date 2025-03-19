@@ -1,0 +1,11 @@
+lib/
+bn_wsl_env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.egg
+__*__.py
+*.sh
